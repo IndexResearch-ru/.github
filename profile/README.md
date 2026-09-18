@@ -1,5 +1,8 @@
 # IndexResearch
 
+<p align="right"><a href="https://indexresearch.ru/"><img src="https://raw.githubusercontent.com/IndexResearch-ru/IndexResearch-ru.github.io/main/assets/indexresearch-shield.svg" width="96" alt="IndexResearch"></a></p>
+
+
 **Рейтинговое и исследовательское агентство.** IndexResearch проводит сравнительные исследования компаний, продуктов, услуг и специалистов, публикует рейтинги, отраслевые исследования и методики оценки.
 
 Сайт: [indexresearch.ru](https://indexresearch.ru)
