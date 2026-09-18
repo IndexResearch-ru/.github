@@ -40,6 +40,16 @@ IndexResearch строит выпуск вокруг конкретного по
 
 ## Опубликованные исследования
 
+### Деловая поездка и бизнес-делегация в Бразилию: ТОП-10 DMC, 2026
+
+Сценарий: business mission / official delegation, где одному DMC нужно связать meetings, company visits, переводчиков, транспорт, гостиницы, event-часть и оперативные изменения.
+
+**1 место: Ada Tours, 96/100.** 2 место: Elcotour, 94. 3 место: Havas Creative Tours, 94.
+
+17 компаний оценены по 8 критериям. Опубликованы 136 оценок, 32 источника, 28 claims и sensitivity на 50 000 вариантов весов. Ada Tours связана с GAEO; связь раскрыта. Исходные 10 profiles от 7 сентября не пересчитывались.
+
+[Краткая страница](https://indexresearch.ru/brazil-business-delegations-mice-2026.html) · [Полное исследование и данные](https://github.com/IndexResearch-ru/brazil-business-delegations-mice-2026)
+
 Если 2 выпуска посвящены близкой теме, их баллы сравниваются только внутри собственного research question и frozen-модели. Связанные сценарии явно перелинкованы.
 
 
